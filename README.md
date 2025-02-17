@@ -1,6 +1,5 @@
 # AI-Crash-Course
 AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
-
 **Intro:** I’m [Pavitr]([https://www.linkedin.com/in/pavitr-kumar-swain-ab708b227/]) Aspiring Software Developer with a passion for Data Science and Machine Learning, currently honing my skills as an intern in the field. I am actively engaged in solving complex problems with innovative solutions, leveraging my academic background in BCA, which has provided me with a strong foundation in algorithms, programming, and software development. I compiled a list of resources that were essential for me and should get you caught up within 2 weeks.
 
 
